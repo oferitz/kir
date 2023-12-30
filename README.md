@@ -8,6 +8,6 @@ Backend:
 Frontend:
 - Vite
 - React
-- Shadcn
+- shadcn/ui
 - TailwindCSS
 
