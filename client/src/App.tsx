@@ -14,7 +14,9 @@ const App = () => {
             <ThemeToggle />
           </div>
           <Separator />
-          <Users />
+          <main className="p-8">
+            <Users />
+          </main>
         </ThemeProvider>
       </QueryClientProvider>
     </trpc.Provider>
